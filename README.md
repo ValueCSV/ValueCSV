@@ -7,7 +7,6 @@ The code release of paper"ValueCSV: Evaluating Core Socialist Values Understandi
 To address the potential social risks and safety challenges associated with Large Language Models (LLMs), human values alignment has been proposed to guarantee LLMs' outputs align with human values
 as a key step to achieve responsible AI technology. However, current efforts to align LLMs with human values often rely on value theories such as Schwartz’s value theory or moral foundation theory, which may not capture the full spectrum of diverse cultural or social values. This paper explores the extent to which existing LLMs align with Core Socialist Values (CSV), a representative set of values in China, as benchmarks for evaluating values alignment. Our framework is publicly available at [here](https://github.com/ValueCSV).
 
-<!--![Corpus](assets/corpus_components.png)-->
 <p align="center">
     <img src="https://github.com/ValueCSV/ValueCSV/assets/135218450/6b87b9b3-ea07-402a-8de9-3f3d5afd1319" width="500">
 </p>
@@ -27,7 +26,9 @@ In this repository, we provide:
 ## Definition of CSV
 Core Socialist Values contains 12 distinct types of values, which are Prosperity, Democracy, Civility, Harmony, Freedom, Equality, Justice, Rule of Law, Patriotism, Dedication, Integrity and Friendliness. These 12 dimensions of values can be categorised into three higher-level groups, i.e., National level, Society level, and Personal level, as listed below:
 
-![Definition of 12 dimensions of Core Socialist Values](https://github.com/ValueCSV/ValueCSV/assets/135218450/0dec3790-1d36-4204-b264-7344a6814886)
+<p align="center">
+    <img src="https://github.com/ValueCSV/ValueCSV/assets/135218450/0dec3790-1d36-4204-b264-7344a6814886" width="500">
+</p>
 
 ## Pretrained Model
 
@@ -37,7 +38,9 @@ We use both [bert-baes-chinese](https://huggingface.co/google-bert/bert-base-chi
 
 The comparison of different ValueCSV evaluators are shown in table below:
 
-![Value classifier performance of four CSV evaluators](https://github.com/ValueCSV/ValueCSV/assets/135218450/8b02c27f-b1a4-47ed-aaf8-996dda95a4ef)
+<p align="center">
+    <img src="https://github.com/ValueCSV/ValueCSV/assets/135218450/8b02c27f-b1a4-47ed-aaf8-996dda95a4ef" width="500">
+</p>
 
 Note that M.Value-BERT and M.Value-RoBERTa are both multi-label classifier and Value-BERT and Value-RoBERTa are both 12 separate binary classifiers.
 
