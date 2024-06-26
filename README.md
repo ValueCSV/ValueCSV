@@ -25,7 +25,7 @@ In this repository, we provide:
 - A question dataset with 100 question covering diversity CSV dimensions for testing LLM's CSV understanding ability at [here](https://github.com/ValueCSV/ValueCSV/blob/main/Dataset/quest100.xlsx).
 
 ## Definition of CSV
-Core Socialist Values contains 12 distinct types of values, which are \textit{Prosperity, Democracy, Civility, Harmony, Freedom, Equality, Justice, Rule of Law, Patriotism, Dedication, Integrity and Friendliness}. These $12$ dimensions of values can be categorised into three higher-level groups, i.e., \textit{National level}, \textit{Society level}, and \textit{Personal level}, as listed below:
+Core Socialist Values contains 12 distinct types of values, which are Prosperity, Democracy, Civility, Harmony, Freedom, Equality, Justice, Rule of Law, Patriotism, Dedication, Integrity and Friendliness. These 12 dimensions of values can be categorised into three higher-level groups, i.e., National level, Society level, and Personal level, as listed below:
 
 ![Definition of 12 dimensions of Core Socialist Values](https://github.com/ValueCSV/ValueCSV/assets/135218450/0dec3790-1d36-4204-b264-7344a6814886)
 
@@ -44,7 +44,7 @@ Note that M.Value-BERT and M.Value-RoBERTa are both multi-label classifier and V
 
 ## Checkpoints 
 
-We also release the checkpoints of ValueCSV evaluator Value-Bert as Value-Bert outperforms in all ValueCSV evaluators at [Google-Drive](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large). 
+We also release the checkpoints of ValueCSV evaluator Value-Bert at [Google-Drive](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large) as Value-Bert outperforms in all ValueCSV evaluators. 
 
 ## Data License
 
