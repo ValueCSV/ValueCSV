@@ -6,7 +6,7 @@ as a key step to achieve responsible AI technology. However, current efforts to 
 
 <!--![Corpus](assets/corpus_components.png)-->
 <p align="center">
-    <img src="https://github.com/ValueCSV/ValueCSV/assets/135218450/ad3dbd52-4f2b-46d6-b01d-0cffee1ae608" width="500">
+    <img src="https://github.com/ValueCSV/ValueCSV/assets/135218450/6b87b9b3-ea07-402a-8de9-3f3d5afd1319" width="500">
 </p>
 
 <br>
