@@ -1,7 +1,5 @@
 # ValueCSV: A Framework For Evaluating Core Socialist Values Understanding in Large Language Models
 
-The code release of paper"ValueCSV: Evaluating Core Socialist Values Understanding in LLMs".
-
 ## Overview
 
 To address the potential social risks and safety challenges associated with Large Language Models (LLMs), human values alignment has been proposed to guarantee LLMs' outputs align with human values
