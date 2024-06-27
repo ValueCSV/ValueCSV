@@ -45,7 +45,7 @@ Note that M.Value-BERT and M.Value-RoBERTa are both multi-label classifier and V
 
 ## Checkpoints 
 
-We also release the checkpoints of ValueCSV evaluator Value-Bert at [Google-Drive](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large) as Value-Bert outperforms in all ValueCSV evaluators. 
+We also release the checkpoints of ValueCSV evaluator Value-Bert at [Google-Drive](https://drive.google.com/drive/folders/1KlXGw6KXA-YG4qs6Mv73qYXn8rEoxaXT?usp=sharing) as Value-Bert outperforms in all ValueCSV evaluators. 
 
 ## Data License
 
